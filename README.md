@@ -42,6 +42,8 @@ The following image shows the web application's appearance and functionality:
 
 ## Installation
 
+To install the application, clone the files to your directory. Open the terminal in Visual Studio and make sre you're in the root directory of MahdisReadMe. Type npm install into the command line to install the required packages. Type node index.js to the command line to run the code.
+
 Github repository:
 
 https://github.com/mahdi83777/MahdisReadMe
