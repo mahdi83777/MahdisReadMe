@@ -38,19 +38,18 @@ THEN I am taken to the corresponding section of the README
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./assets/images/output.PNG)
+![The Password Generator application displays a red button to "Generate Password".](./utils/Output.PNG)
 
 ## Installation
 
 Github repository:
 
-https://github.com/mahdi83777/MahdisWeatherDashboard
+https://github.com/mahdi83777/MahdisReadMe
 
 Deployed application:
 
-https://mahdi83777.github.io/MahdisWeatherDashboard/
+https://mahdi83777.github.io/MahdisReadMe/
 
 ## References
 
-[Day.js] (https://day.js.org/docs/en/parse/string-format)
-[API] (https://openweathermap.org/forecast5)
+[Node JS] (https://www.w3schools.com/nodejs/)
