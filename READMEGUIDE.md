@@ -46,9 +46,9 @@ Github repository:
 
 https://github.com/mahdi83777/MahdisReadMe
 
-Deployed application:
+Deployed video:
 
-https://mahdi83777.github.io/MahdisReadMe/
+https://youtu.be/9j9rqz0QmGc
 
 ## References
 
